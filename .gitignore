@@ -1,5 +1,5 @@
 # Jupyter Notebook checkpoints
-notebook/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
 
 # OS generated files
 .DS_Store
