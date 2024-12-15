@@ -1,9 +1,10 @@
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+notebook/ipynb_checkpoints/
 
 # OS generated files
 .DS_Store
-Thumbs.db
+
+/data
 
 # Python
 __pycache__/
